@@ -18,7 +18,7 @@ namespace Contacts_Manager
             AddContact("Huda");
             RemoveContact("Fadi");
             RemoveContact("");
-            RemoveContact("Salam");
+            RemoveContact("Ibrahim");
             ViewAllContacts();}
         public static void AddContact(string contact) {
        if (string.IsNullOrEmpty(contact)) { 
